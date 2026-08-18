@@ -6,8 +6,8 @@ class Program
 {
     static void Main()
     {
-        string s = "check";
-        string t = "khecc";
+        string s = "representationism";
+        string t = "misrepresentation";
 
         bool result = IsAnagram(s, t);
         Console.WriteLine($" Result: {result}");
